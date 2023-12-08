@@ -1,3 +1,6 @@
+## [2.1.2] - 07-12-2023
+- Melhoria: Adicionado novo certificado sslpinning 
+
 ## [2.1.1] - 17-08-2023
 - Melhoria: Tela de Erro customizável.
 - Melhoria: Inclusão de Tratamento dos erros de conexão e comunicação.
