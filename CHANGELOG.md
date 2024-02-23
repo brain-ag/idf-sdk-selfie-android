@@ -1,3 +1,6 @@
+## [2.2.0] - 16-01-2024
+- Melhoria: Retornar erros via callback (callbackProcessamentoLiveness).
+
 ## [2.1.2] - 07-12-2023
 - Melhoria: Adicionado novo certificado sslpinning 
 
