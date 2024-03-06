@@ -1,7 +1,7 @@
-## [2.2.0] - 16-01-2024
-- Melhoria: Retornar erros via callback (callbackProcessamentoLiveness).
+## [2.2.1] - 04-03-2024
+- Melhoria: Atualização da biblioteca MLKit (17.1.0).
 
-## [2.1.2] - 07-12-2023
+## [2.2.0] - 07-12-2023
 - Melhoria: Adicionado novo certificado sslpinning 
 
 ## [2.1.1] - 17-08-2023
