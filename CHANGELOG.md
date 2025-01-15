@@ -1,3 +1,6 @@
+## [2.2.4] - 15-01-2025
+- Correção: Inicialização do componente no Android 15.
+
 ## [2.2.3] - 22-10-2024
 - Melhoria: Adição de novo certificado.
 - Correção: Validação sslpinning.

@@ -1,3 +1,0 @@
-install: 
-  - FILE="-Dfile=idf-sdk-selfie-android-2.2.3.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.brain-ag -DartifactId=idf-sdk-selfie-android -Dversion=2.2.3 -Dpackaging=aar -DpomFile=idf-sdk-selfie-android-2.2.3.pom
